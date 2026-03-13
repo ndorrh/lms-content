@@ -16,7 +16,7 @@ If HTML is the foundation, CSS is the architecture and interior design. Every el
 
 #### 🎥 Watch
 - [CSS Crash Course for Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
-- [Understanding the CSS Box Model](https://www.youtube.com/watch?v=rIO5326Fgpe)
+- [Understanding the CSS Box Model](https://www.youtube.com/watch?v=rIO5326FgPE)
 
 #### 📖 Read
 - [MDN: CSS First Steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
