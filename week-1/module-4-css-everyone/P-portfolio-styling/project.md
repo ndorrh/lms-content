@@ -20,4 +20,4 @@ Apply CSS styles to the portfolio skeleton you built in the previous module.
 5. Make a button that changes color when you hover over it!
 
 ### Submission
-Submit your updated `portfolio` folder or a live link (if you already know how to host it!).
+Submit your updated GitHub repository link.

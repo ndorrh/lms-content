@@ -18,4 +18,4 @@ Ensure your environment is ready for coding by generating a "System Check" repor
 4. Save the screenshot as `setup-check.png`.
 
 ### Submission
-Upload your screenshot to the portal to mark this milestone as complete.
+Upload your `setup-check.png` to a GitHub repository and submit the repository link to the portal.

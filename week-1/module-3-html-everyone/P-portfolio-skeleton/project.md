@@ -20,4 +20,4 @@ Create the initial HTML structure for your personal portfolio. Focus ONLY on con
 4. Validate your HTML!
 
 ### Submission
-Submit a zip file of your `portfolio` folder or a screenshot of your code.
+Submit your GitHub repository link. If you wish to include a screenshot, please add it to your repository.

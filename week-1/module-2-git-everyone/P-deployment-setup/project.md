@@ -13,7 +13,7 @@ Host a simple page on the web so that you are ready to deploy your portfolio lat
 2. Clone or initialize Git in a new sandbox folder.
 3. Push a simple "Hello World" HTML file.
 4. Go to **Settings > Pages** and set the branch to `main`.
-5. share your live link in the portal!
+5. Share your GitHub repository link and live URL in the portal!
 
 ### Submission
 Submit the URL to your sandbox website.
